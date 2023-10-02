@@ -1,2 +1,4 @@
 # Recipe_App
-#Extended_idea_for_Recipe_Search_App_project
+A recipe search app that utilizes Edaman API and TKinter framework
+#Main_file_is_the_project_source_code
+#Other_files_are_Extended_idea_for_Recipe_Search_App_project
